@@ -29,7 +29,7 @@ import time
 #Read the data
 data = pd.read_csv('Reviews.csv')
 
-#Make a copy of 10 rows for smaller testing
+#Make a copy of 100 rows for smaller testing
 small_data = data.head(100).copy()
 
 #To view the documentation
