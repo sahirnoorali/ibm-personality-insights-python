@@ -1,5 +1,5 @@
 # Enriching data with IBM Personality Insights
-This dataset enriched in this project is taken from Kaggle:
+The dataset enriched in this project is taken from Kaggle:
 
 https://www.kaggle.com/snap/amazon-fine-food-reviews
 
