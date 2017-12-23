@@ -39,8 +39,8 @@ small_data = data.head(100).copy()
 #Instantiate TA Object with your Credentials
 #-------------------------------------------------------------------------
 PI = PersonalityInsightsV3( 
-    username='c7a75b81-5b15-4168-87c5-cdafb5f9f002',
-    password='AYMszHcgNPNw',
+    username='ABC',
+    password='XYZ',
     version='2016-10-20',
     url = 'https://gateway.watsonplatform.net/personality-insights/api')
 #-------------------------------------------------------------------------
